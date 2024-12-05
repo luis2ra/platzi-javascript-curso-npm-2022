@@ -1,0 +1,24 @@
+{
+  "name": "class05-npm-init",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js && echo 'otro comando desde scripts'"
+  },
+  "keywords": [
+    "javascript",
+    "angular",
+    "node"
+  ],
+  "author": "Luis Altuve <luis2ra@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.16.0"
+  }
+}
